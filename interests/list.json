@@ -7,33 +7,33 @@
         "Binge-watching TV series",
         "Movie and TV show production",
         "Cinema",
-		"Film appreciation",
-		"Movie trivia",
-		"Quoting movie/tv lines",
-		"Cinematography",
-		"Film festivals",
-		"Analyzing plot twists",
-		"Fan theories",
-		"Acting",
-		"Screenwriting"
+	"Film appreciation",
+	"Movie trivia",
+	"Quoting movie/tv lines",
+	"Cinematography",
+	"Film festivals",
+	"Analyzing plot twists",
+	"Fan theories",
+	"Acting",
+	"Screenwriting"
       ]
     },
     {
       "category": "Music",
       "hobbies": [
         "Listening to music",
-		"Concerts and music festivals",
+	"Concerts and music festivals",
         "Playing musical instruments",
-		"Singing",
-		"Songwriting",
+	"Singing",
+	"Songwriting",
         "Music production",
         "Music composition",
         "Music theory",
         "Music history",
-		"Dancing",
-		"Exploring different genres",
-		"Vinyl record collecting",
-		"Creating playlists",
+	"Dancing",
+	"Exploring different genres",
+	"Vinyl record collecting",
+	"Creating playlists"
       ]
     },
     {
@@ -43,34 +43,34 @@
         "Writing",
         "Creative writing",
         "Literary criticism",
-		"Book club discussions",
-		"Poetry",
-		"Fiction",
-		"Non-fiction",
-		"Sci-fi and fantasy",
-		"Thrillers and mysteries",
-		"Classics",
-		"Literary analysis",
-		"Book collecting",
-		"Book restoration"
+	"Book club discussions",
+	"Poetry",
+	"Fiction",
+	"Non-fiction",
+	"Sci-fi and fantasy",
+	"Thrillers and mysteries",
+	"Classics",
+	"Literary analysis",
+	"Book collecting",
+	"Book restoration"
       ]
     },
     {
       "category": "Sports",
       "hobbies": [
-		"Football",
+	"Football",
         "Soccer",
         "Basketball",
         "Baseball",
         "Tennis",
-		"Hockey",
+	"Hockey",
         "Swimming",
         "Running",
-		"Golf",
-		"Cycling",
-		"Yoga",
-		"Skiing/Snowboarding",
-		"Team sports"
+	"Golf",
+	"Cycling",
+	"Yoga",
+	"Skiing/Snowboarding",
+	"Team sports"
       ]
     },
     {
@@ -82,13 +82,13 @@
         "Photography",
         "Crafting",
         "Art history",
-		"Pottery",
-		"Origami",
-		"Calligraphy",
-		"Embroidery",
-		"Knitting/Crocheting",
-		"Jewelry making",
-		"DIY projects"
+	"Pottery",
+	"Origami",
+	"Calligraphy",
+	"Embroidery",
+	"Knitting/Crocheting",
+	"Jewelry making",
+	"DIY projects"
       ]
     },
     {
@@ -99,32 +99,32 @@
         "Fishing",
         "Bird watching",
         "Nature photography",
-		"Nature walks",
+	"Nature walks",
         "Geocaching",
-		"Gardening",
-		"Canoeing/Kayaking",
-		"Rock climbing",
-		"Surfing",
-		"Photography",
-		"Stargazing",
-		"Environmental conservation"
+	"Gardening",
+	"Canoeing/Kayaking",
+	"Rock climbing",
+	"Surfing",
+	"Photography",
+	"Stargazing",
+	"Environmental conservation"
       ]
     },
     {
       "category": "Gaming",
       "hobbies": [
         "Video gaming",
-		"Online gaming",
+	"Online gaming",
         "Board games",
         "Role-playing games",
         "Puzzles",
         "Card games",
         "Sports games",
-		"Strategy games",
-		"Game development",
-		"Game lore",
-		"Virtual reality",
-		"E-sports"
+	"Strategy games",
+	"Game development",
+	"Game lore",
+	"Virtual reality",
+	"E-sports"
       ]
     },
     {
@@ -135,14 +135,14 @@
         "Wine tasting",
         "Beer brewing",
         "Coffee roasting",
-		"Recipe sharing",
-		"Gourmet cuisine",
-		"Grilling/BBQ",
-		"Food photography",
-		"Herb and spice blending",
-		"Farm-to-table",
-		"Cookbook collecting",
-		"Culinary adventures"
+	"Recipe sharing",
+	"Gourmet cuisine",
+	"Grilling/BBQ",
+	"Food photography",
+	"Herb and spice blending",
+	"Farm-to-table",
+	"Cookbook collecting",
+	"Culinary adventures"
       ]
     },
     {
@@ -151,32 +151,32 @@
         "Web development",
         "App development",
         "Coding",
-		"AI and machine learning",
+	"AI and machine learning",
         "Cybersecurity",
         "Data science",
         "Tech reviews",
-		"Computers",
-		"Open-source projects",
-		"Hardware tinkering",
-		"Tech conferences",
-		"Internet culture",
-		"Online forums"
+	"Computers",
+	"Open-source projects",
+	"Hardware tinkering",
+	"Tech conferences",
+	"Internet culture",
+	"Online forums"
       ]
     }
 	    {
       "category": "Travel",
-		"hobbies": [
-		"Backpacking",
-		"Road trips",
-		"Adventure travel",
-		"Cultural immersion",
-		"Hiking trails",
-		"Exploring new cities",
-		"Photography",
-		"Local cuisine",
-		"Language learning",
-		"Sustainable travel",
-		"Travel planning"
+	"hobbies": [
+	"Backpacking",
+	"Road trips",
+	"Adventure travel",
+	"Cultural immersion",
+	"Hiking trails",
+	"Exploring new cities",
+	"Photography",
+	"Local cuisine",
+	"Language learning",
+	"Sustainable travel",
+	"Travel planning"
       ]
     }
   ]
