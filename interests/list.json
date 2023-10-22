@@ -1,0 +1,183 @@
+{
+  "interests": [
+    {
+      "category": "Movies and TV",
+      "hobbies": [
+        "Watching movies",
+        "Binge-watching TV series",
+        "Movie and TV show production",
+        "Cinema",
+		"Film appreciation",
+		"Movie trivia",
+		"Quoting movie/tv lines",
+		"Cinematography",
+		"Film festivals",
+		"Analyzing plot twists",
+		"Fan theories",
+		"Acting",
+		"Screenwriting"
+      ]
+    },
+    {
+      "category": "Music",
+      "hobbies": [
+        "Listening to music",
+		"Concerts and music festivals",
+        "Playing musical instruments",
+		"Singing",
+		"Songwriting",
+        "Music production",
+        "Music composition",
+        "Music theory",
+        "Music history",
+		"Dancing",
+		"Exploring different genres",
+		"Vinyl record collecting",
+		"Creating playlists",
+      ]
+    },
+    {
+      "category": "Literature",
+      "hobbies": [
+        "Reading",
+        "Writing",
+        "Creative writing",
+        "Literary criticism",
+		"Book club discussions",
+		"Poetry",
+		"Fiction",
+		"Non-fiction",
+		"Sci-fi and fantasy",
+		"Thrillers and mysteries",
+		"Classics",
+		"Literary analysis",
+		"Book collecting",
+		"Book restoration"
+      ]
+    },
+    {
+      "category": "Sports",
+      "hobbies": [
+		"Football",
+        "Soccer",
+        "Basketball",
+        "Baseball",
+        "Tennis",
+		"Hockey",
+        "Swimming",
+        "Running",
+		"Golf",
+		"Cycling",
+		"Yoga",
+		"Skiing/Snowboarding",
+		"Team sports"
+      ]
+    },
+    {
+      "category": "Arts and Crafts",
+      "hobbies": [
+        "Painting",
+        "Drawing",
+        "Sculpture",
+        "Photography",
+        "Crafting",
+        "Art history",
+		"Pottery",
+		"Origami",
+		"Calligraphy",
+		"Embroidery",
+		"Knitting/Crocheting",
+		"Jewelry making",
+		"DIY projects"
+      ]
+    },
+    {
+      "category": "Outdoors",
+      "hobbies": [
+        "Hiking",
+        "Camping",
+        "Fishing",
+        "Bird watching",
+        "Nature photography",
+		"Nature walks",
+        "Geocaching",
+		"Gardening",
+		"Canoeing/Kayaking",
+		"Rock climbing",
+		"Surfing",
+		"Photography",
+		"Stargazing",
+		"Environmental conservation"
+      ]
+    },
+    {
+      "category": "Gaming",
+      "hobbies": [
+        "Video gaming",
+		"Online gaming",
+        "Board games",
+        "Role-playing games",
+        "Puzzles",
+        "Card games",
+        "Sports games",
+		"Strategy games",
+		"Game development",
+		"Game lore",
+		"Virtual reality",
+		"E-sports"
+      ]
+    },
+    {
+      "category": "Food and Drink",
+      "hobbies": [
+        "Cooking",
+        "Baking",
+        "Wine tasting",
+        "Beer brewing",
+        "Coffee roasting",
+		"Recipe sharing",
+		"Gourmet cuisine",
+		"Grilling/BBQ",
+		"Food photography",
+		"Herb and spice blending",
+		"Farm-to-table",
+		"Cookbook collecting",
+		"Culinary adventures"
+      ]
+    },
+    {
+      "category": "Technology",
+      "hobbies": [
+        "Web development",
+        "App development",
+        "Coding",
+		"AI and machine learning",
+        "Cybersecurity",
+        "Data science",
+        "Tech reviews",
+		"Computers",
+		"Open-source projects",
+		"Hardware tinkering",
+		"Tech conferences",
+		"Internet culture",
+		"Online forums"
+      ]
+    }
+	    {
+      "category": "Travel",
+		"hobbies": [
+		"Backpacking",
+		"Road trips",
+		"Adventure travel",
+		"Cultural immersion",
+		"Hiking trails",
+		"Exploring new cities",
+		"Photography",
+		"Local cuisine",
+		"Language learning",
+		"Sustainable travel",
+		"Travel planning"
+      ]
+    }
+  ]
+}
